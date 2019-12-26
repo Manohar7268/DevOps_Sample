@@ -1,0 +1,1 @@
+Exapmle of this how to switched the master to another file
