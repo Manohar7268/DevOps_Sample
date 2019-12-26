@@ -1,0 +1,3 @@
+Hi this is Just Sample prctice with Git Commits
+
+1. I am doing work with Commit1
