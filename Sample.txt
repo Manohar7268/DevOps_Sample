@@ -1,3 +1,9 @@
 Hi this is Just Sample prctice with Git Commits
 
 1. I am doing work with Commit1
+
+2. I am doing work with Commit2
+
+3. I am gona to work with Commit3
+
+Checkout Master changed
